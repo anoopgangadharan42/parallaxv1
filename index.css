@@ -16,13 +16,13 @@
     color: rgba(255,255, 255, .4);
   }
   .parallex-1{
-    background-image: url(image/download.jpg) ;
+    background-image: url('https://cdn.pixabay.com/photo/2017/09/08/13/18/woman-2728727_1280.jpg') ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
   }
   .parallex-2{
-    background-image: url(image/moon.jpg) ;
+    background-image: url('https://cdn.pixabay.com/photo/2019/10/29/10/07/man-4586576_1280.jpg') ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
